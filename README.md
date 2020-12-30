@@ -2,7 +2,7 @@
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelhccr&show_icons=true&bg_color=14274e&text_color=FFF&title_color=FFFF&icon_color=FFF" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelhccr&&hide=html&show_icons=true&bg_color=14274e&text_color=FFF&title_color=FFFF&icon_color=FFF" /></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=emmanuelhccr&show_icons=true&bg_color=14274e&text_color=FFF&title_color=FFFF&icon_color=FFF" /></td>
   </tr>  
 </table>
