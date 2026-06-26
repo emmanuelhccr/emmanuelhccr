@@ -18,7 +18,7 @@
 
 ### About
 
-Data Engineer with 7+ years of end-to-end delivery across retail, fintech, and fuel/convenience. I build the full path from architecture to production: pipelines, APIs, workers, integrations, and dashboards.
+Data Engineer with 8+ years of end-to-end delivery across retail, fintech, and fuel/convenience. I build the full path from architecture to production: pipelines, APIs, workers, integrations, and dashboards.
 
 - 🛰️ Currently doing hands-on data engineering on **Databricks** and **Azure Data Lake** for an enterprise analytics initiative.
 - ⚙️ Background leading **event-driven systems at scale**: an event-driven platform processing 6,000+ data subject requests per year, consistently under a 4-day response against a 15-day legal SLA.
